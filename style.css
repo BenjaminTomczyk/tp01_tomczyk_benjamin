@@ -1,0 +1,33 @@
+body {
+    background-color: #707070;
+  }
+  
+  h1 {
+    background-color: #545454;
+    margin: 0rem;
+    color: white;
+    padding-left: 2rem;
+    padding-left: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    text-align: center;
+    font-family: 'Trebuchet MS';
+  }
+
+  h3 {
+    color: lightgray;
+    padding-left: 5rem;
+    padding-left: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    text-align: left;
+    font-family: 'Trebuchet MS';
+  }
+
+  form {
+    font-family: 'Trebuchet MS';
+    color: white;
+    columns: 2;
+    padding-left: 5rem;
+    padding-right: 5rem;
+  }
